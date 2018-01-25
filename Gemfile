@@ -11,7 +11,7 @@ end
 gem 'rails', '~> 5.0.2'
 # ruby "2.2.6"
 # Successfully uninstalled bundler-1.14.6
-
+gem 'json'
 ruby "2.2.5"
 # Use sqlite3 as the database for Active Record
 gem 'pg'
